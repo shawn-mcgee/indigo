@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Trait" format=3 uid="uid://d3ib4skwrr4q6"]
+
+[ext_resource type="Script" uid="uid://dbl5adf87afhx" path="res://Traits/trait.gd" id="1_uj00n"]
+
+[resource]
+script = ExtResource("1_uj00n")
+name = "Wrist"
+tags = Array[String](["Style", "Watch", "Wrist"])
+metadata/_custom_type_script = "uid://dbl5adf87afhx"
