@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="Watch" format=3 uid="uid://dd3dr4stthr85"]
 
-[ext_resource type="Script" uid="uid://c5dkx2tqm0rrx" path="res://Things/watch.gd" id="1_iesc4"]
+[ext_resource type="Script" uid="uid://c5dkx2tqm0rrx" path="res://Indigo/Data/Things/watch.gd" id="1_iesc4"]
 
 [resource]
 script = ExtResource("1_iesc4")

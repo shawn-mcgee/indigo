@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cnbowgfjoxbg8"]
+
+[ext_resource type="Script" uid="uid://b0euxtaw60ecx" path="res://Indigo/Scenes/main.gd" id="1_ig7tw"]
+
+[node name="Main" type="Node2D" unique_id=1206916354]
+script = ExtResource("1_ig7tw")

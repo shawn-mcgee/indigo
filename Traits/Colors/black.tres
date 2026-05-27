@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="Trait" format=3 uid="uid://binvaeiobtwup"]
-
-[ext_resource type="Script" uid="uid://dbl5adf87afhx" path="res://Traits/trait.gd" id="1_7od2b"]
-
-[resource]
-script = ExtResource("1_7od2b")
-name = "Black"
-tags = Array[String](["Color", "Black"])
-metadata/_custom_type_script = "uid://dbl5adf87afhx"

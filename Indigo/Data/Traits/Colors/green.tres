@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Trait" format=3 uid="uid://dn1emcnpn13sc"]
+
+[ext_resource type="Script" uid="uid://dbl5adf87afhx" path="res://Indigo/Data/Traits/trait.gd" id="1_pp176"]
+
+[resource]
+script = ExtResource("1_pp176")
+name = "Green"
+tags = Array[String](["Color", "Green"])
+metadata/_custom_type_script = "uid://dbl5adf87afhx"

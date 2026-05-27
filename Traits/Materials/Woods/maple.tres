@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="Trait" format=3 uid="uid://ce2o3vopli3mc"]
-
-[ext_resource type="Script" uid="uid://dbl5adf87afhx" path="res://Traits/trait.gd" id="1_034rt"]
-
-[resource]
-script = ExtResource("1_034rt")
-name = "Maple"
-tags = Array[String](["Material", "Wood", "Maple"])
-metadata/_custom_type_script = "uid://dbl5adf87afhx"

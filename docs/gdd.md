@@ -1,6 +1,3 @@
-
-
-
 ### Overview
 
 Indigo is a game about solving procedurally generated mysteries. The game is inspired by a life-long love of the murder-mystery genre and its adjacent sub-genres.
@@ -33,7 +30,19 @@ The player is given an initial case docket with the victim, time of death, cause
 
 
 
+### Primary mechanics
 
+#### Case Board
+
+The case board is where the player can visualize the state of the investigation. 
+
+#### Vignettes
+
+Vignettes are locations the investigator can walk around and interact with evidence.
+
+#### Interviews
+
+Interviews are dialogues where the investigator can interact with suspects.
 
 
 
