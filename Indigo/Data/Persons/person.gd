@@ -2,24 +2,17 @@ class_name Person
 extends Resource
 
 enum Pronouns {
-  Nonbinary, # They/Them
-  Masculine, # He  /Him
-  Feminine , # She /Her
+  Feminine , # She  / Her
+  Masculine, # He   / Him
+  NonBinary, # They / Them
 }
 
-@export var pronouns: Pronouns
-@export var fname   : String
-@export var lname   : String
+@export var pronouns   : Pronouns
+@export var given_name : String
+@export var family_name: String
+
+const FAMILY_NAMES    = preload("res://Assets/JSON/family_names.json"   )
+const FEMININE_NAMES  = preload("res://Assets/JSON/feminine_names.json" )
+const MASCULINE_NAMES = preload("res://Assets/JSON/masculine_names.json")
 
 
-
-
-func _random_pronouns() -> void:
-  pronouns = [
-    Pronouns.Nonbinary, 
-    Pronouns.Masculine, 
-    Pronouns.Feminine
-  ][randi() % 3]
-
-func _random_fname() -> void:
-  pass
