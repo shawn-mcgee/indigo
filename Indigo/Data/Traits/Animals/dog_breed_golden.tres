@@ -1,8 +1,16 @@
 [gd_resource type="Resource" script_class="DogBreed" format=3 uid="uid://y14srqtlbvg7"]
 
 [ext_resource type="Script" uid="uid://dmnjsuqwnx1oy" path="res://Indigo/Data/Traits/Hair/hair_color.gd" id="1_q2jun"]
+[ext_resource type="Resource" uid="uid://dnmm6l7hxy53l" path="res://Indigo/Data/Traits/Hair/hair_color_blonde.tres" id="2_h2nv8"]
 [ext_resource type="Script" uid="uid://bgqvede42tijy" path="res://Indigo/Data/Traits/Animals/dog_breed.gd" id="2_wul4y"]
+[ext_resource type="Script" uid="uid://cyn85u7no6ni1" path="res://Indigo/Data/Traits/Hair/hair_length.gd" id="3_f06e8"]
+[ext_resource type="Resource" uid="uid://b6qv0tkboa53n" path="res://Indigo/Data/Traits/Hair/hair_length_medium.tres" id="4_1kft8"]
+[ext_resource type="Resource" uid="uid://dyj140ha5340x" path="res://Indigo/Data/Traits/Hair/hair_length_long.tres" id="5_3m88x"]
 
 [resource]
 script = ExtResource("2_wul4y")
+name = "Golden Retriever"
+description = "A goofy but lovable breed. Typically golden blonde with a longer coat."
+hair_colors = Array[ExtResource("1_q2jun")]([ExtResource("2_h2nv8")])
+hair_lengths = Array[ExtResource("3_f06e8")]([ExtResource("4_1kft8"), ExtResource("5_3m88x")])
 metadata/_custom_type_script = "uid://bgqvede42tijy"
