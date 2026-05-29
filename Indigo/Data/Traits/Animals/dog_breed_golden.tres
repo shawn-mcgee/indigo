@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="DogBreed" format=3 uid="uid://y14srqtlbvg7"]
+
+[ext_resource type="Script" uid="uid://dmnjsuqwnx1oy" path="res://Indigo/Data/Traits/Hair/hair_color.gd" id="1_q2jun"]
+[ext_resource type="Script" uid="uid://bgqvede42tijy" path="res://Indigo/Data/Traits/Animals/dog_breed.gd" id="2_wul4y"]
+
+[resource]
+script = ExtResource("2_wul4y")
+metadata/_custom_type_script = "uid://bgqvede42tijy"

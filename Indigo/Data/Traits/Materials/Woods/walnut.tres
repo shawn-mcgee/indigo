@@ -1,9 +1,0 @@
-[gd_resource type="Resource" script_class="Trait" format=3 uid="uid://dksa5e61rsex4"]
-
-[ext_resource type="Script" uid="uid://dbl5adf87afhx" path="res://Indigo/Data/Traits/trait.gd" id="1_8t18b"]
-
-[resource]
-script = ExtResource("1_8t18b")
-name = "Walnut"
-tags = Array[String](["Material", "Wood", "Walnut"])
-metadata/_custom_type_script = "uid://dbl5adf87afhx"

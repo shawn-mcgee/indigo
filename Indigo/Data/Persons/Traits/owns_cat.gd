@@ -1,4 +1,5 @@
-extends Resource
+class_name PersonOwnsCat
+extends PersonTrait
 
 # a suspect who owns a cat -
 

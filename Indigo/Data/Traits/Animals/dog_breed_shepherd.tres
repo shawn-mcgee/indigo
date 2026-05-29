@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="DogBreed" format=3 uid="uid://cogb2xsmuuvdu"]
+
+[ext_resource type="Script" uid="uid://dmnjsuqwnx1oy" path="res://Indigo/Data/Traits/Hair/hair_color.gd" id="1_ul3s2"]
+[ext_resource type="Resource" uid="uid://d3plmx55yv04u" path="res://Indigo/Data/Traits/Hair/hair_color_black.tres" id="2_dyvcg"]
+[ext_resource type="Script" uid="uid://bgqvede42tijy" path="res://Indigo/Data/Traits/Animals/dog_breed.gd" id="2_pk0ll"]
+[ext_resource type="Resource" uid="uid://bq7rh4sxqhod8" path="res://Indigo/Data/Traits/Hair/hair_color_brown.tres" id="3_jrlm7"]
+[ext_resource type="Resource" uid="uid://b6qv0tkboa53n" path="res://Indigo/Data/Traits/Hair/hair_length_medium.tres" id="4_ti2fa"]
+
+[resource]
+script = ExtResource("2_pk0ll")
+name = "German Shepherd"
+hair_colors = Array[ExtResource("1_ul3s2")]([ExtResource("2_dyvcg"), ExtResource("3_jrlm7")])
+hair_length = ExtResource("4_ti2fa")
+metadata/_custom_type_script = "uid://bgqvede42tijy"

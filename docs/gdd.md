@@ -126,6 +126,18 @@ Some traits/motivations are public or private. Public traits are immediately obv
 - Frame-up
 - Two culprits
 
+#### Archetypal Relationships
+
+- Lover
+- Spouse
+- Niece/Nephew
+- Aunt/Uncle
+- Sibling      (Brother/Sister)
+- Child        (Son/Daughter)
+- Employee
+- Employer
+- Friend
+
 #### Archetypal Motivations
 
 - Secrets (They knew something about me OR someone I care about)

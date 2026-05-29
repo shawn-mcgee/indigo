@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="HairColor" format=3 uid="uid://d3plmx55yv04u"]
+
+[ext_resource type="Script" uid="uid://dmnjsuqwnx1oy" path="res://Indigo/Data/Traits/Hair/hair_color.gd" id="1_yn3s6"]
+
+[resource]
+script = ExtResource("1_yn3s6")
+name = "Black"
+metadata/_custom_type_script = "uid://dmnjsuqwnx1oy"

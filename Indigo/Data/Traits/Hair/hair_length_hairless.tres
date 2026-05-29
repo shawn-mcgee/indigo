@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="HairLength" format=3 uid="uid://b8fcm47mbkyx8"]
+
+[ext_resource type="Script" uid="uid://cyn85u7no6ni1" path="res://Indigo/Data/Traits/Hair/hair_length.gd" id="1_0lggk"]
+
+[resource]
+script = ExtResource("1_0lggk")
+name = "Hairless"
+description = "0\""
+metadata/_custom_type_script = "uid://cyn85u7no6ni1"
