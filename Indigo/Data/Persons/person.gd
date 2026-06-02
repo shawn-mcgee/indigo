@@ -7,10 +7,20 @@ enum Pronouns {
   NonBinary, # They / Them
 }
 
-@export var pronouns   : Pronouns
-@export var given_name : String
-@export var family_name: String
+@export var pronouns  : Pronouns
+@export var first_name: String
+@export var last_name : String
 
-const FAMILY_NAMES    = preload("res://Assets/JSON/family_names.json"   )
-const FEMININE_NAMES  = preload("res://Assets/JSON/feminine_names.json" )
-const MASCULINE_NAMES = preload("res://Assets/JSON/masculine_names.json")
+@export var age: int
+
+@export var left_eye   : Eye
+@export var right_eye  : Eye
+@export var handedness : Handedness
+@export var hair_color : HairColor
+@export var hair_length: HairLength
+
+
+
+const LAST_NAMES            = preload("res://Assets/JSON/last_names.json"   )
+const FEMININE_FIRST_NAMES  = preload("res://Assets/JSON/feminine_first_names.json" )
+const MASCULINE_FIRST_NAMES = preload("res://Assets/JSON/masculine_first_names.json")

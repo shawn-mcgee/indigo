@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="EyeColor" format=3 uid="uid://lr28cymujdhv"]
+
+[ext_resource type="Script" uid="uid://nvha755uuw83" path="res://Indigo/Data/Traits/Eyes/eye_color.gd" id="1_ki8d2"]
+
+[resource]
+script = ExtResource("1_ki8d2")
+name = "Hazel"
+metadata/_custom_type_script = "uid://nvha755uuw83"

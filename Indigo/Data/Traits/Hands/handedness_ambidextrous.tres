@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="Handedness" format=3 uid="uid://cpdkv6g1ihgt7"]
+
+[ext_resource type="Script" uid="uid://cfb3l372l8ifm" path="res://Indigo/Data/Traits/Hands/handedness.gd" id="1_uyhyy"]
+
+[resource]
+script = ExtResource("1_uyhyy")
+name = "Ambidextrous"

@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://d08hcp82p8lxv"]
+
+[node name="Cafe" type="Node2D" unique_id=649189661]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=849542818]

@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="EyeSight" format=3 uid="uid://cd0axlmvod0hl"]
+
+[ext_resource type="Script" uid="uid://c7sdqqccppw7o" path="res://Indigo/Data/Traits/Eyes/eye_sight.gd" id="1_kea6t"]
+
+[resource]
+script = ExtResource("1_kea6t")
+name = "Normal"
+metadata/_custom_type_script = "uid://c7sdqqccppw7o"
